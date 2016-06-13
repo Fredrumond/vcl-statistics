@@ -1,0 +1,37 @@
+/*General Settings*/
+
+	*{margin:0;	padding:0;}
+
+	body{background:#EEE;}
+
+/*Home Settings*/
+
+.box{
+		margin:0;
+		padding:0;
+		/*border-width:2px;
+		border-style:solid;
+		border-radius: 5px;
+		color: #fff;*/
+	}
+
+.tbl_geral td{
+    height: 50px;
+    text-align: center;
+    font-size: 14px;
+		color: #FFF;
+		font-weight: bolder
+}
+
+.tbl_geral a{
+	color: #FFF;
+	text-decoration: none;
+}
+
+.tbl_geral thead{
+	background-color: #E3672A;
+}
+
+.tbl_geral tbody{
+	background-color: #222222;
+}
