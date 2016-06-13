@@ -15,6 +15,14 @@
 		color: #fff;*/
 	}
 
+	.tbl_geral thead{
+		background-color: #E3672A;
+	}
+
+	.tbl_geral tbody{
+		background-color: #222222;
+	}
+
 .tbl_geral td{
     height: 50px;
     text-align: center;
@@ -28,10 +36,10 @@
 	text-decoration: none;
 }
 
-.tbl_geral thead{
-	background-color: #E3672A;
+.melhores_times{
+	background-color: #90EE90;
 }
 
-.tbl_geral tbody{
-	background-color: #222222;
+.piores_times{
+	background-color: #FF8C69;
 }
