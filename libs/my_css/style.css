@@ -37,9 +37,44 @@
 }
 
 .melhores_times{
-	background-color: #90EE90;
+	color: #90EE90;
 }
 
 .piores_times{
-	background-color: #FF8C69;
+	color: #FF8C69;
+}
+
+
+
+.team{
+	background-color: #fff;
+}
+
+.team h1{
+	position: absolute;
+	top: auto;
+	right: 20%;
+}
+.team h2{
+	position: absolute;
+	top: auto;
+	right: 10px;
+}
+
+.team h3{
+	position:relative;;
+	top: -50px;
+	left:120px;
+}
+
+.team h5{
+	position:relative;;
+	top: -60px;
+	left:120px;
+}
+
+.team img{
+	position:relative;
+	top: 20px;
+	left: 40px;
 }
