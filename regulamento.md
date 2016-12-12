@@ -1,4 +1,4 @@
-#REGULAMENTO CARTOLA VALHO CHICO'S LEAGUE
+#REGULAMENTO CARTOLA VELHO CHICO'S LEAGUE
 
 ## Base do regulamento
 
@@ -14,6 +14,14 @@
  - o **CAMPEÃO** da temporada não trabalha no dia do churrasco;
  - os **4 ultimos colcoados** vao revesar a churrasqueira e servir o pessoal durante todo o churrasco;
  - os itens na lista de atuaizações estão valendo a partir da data definida por todos.
+ 
+ ###RESUMO DE TAXAS
+ MOTIVO    | VALOR
+ ----------|--------
+ Inscrição | R$ 30,00
+ Descaso | R$ 5,00
+ Ultimos do mês | R$ 5,00
+ 7 ultimos de cada turno | R$ 10,00
 
 ##ATUALIZAÇÕES NO REGULAMENTO
 ###Mudanças valendo a partir da rodada 5 do campeonato Brasileiro 01/06/2016
