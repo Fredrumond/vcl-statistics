@@ -9,7 +9,7 @@ Tiririu	              |:red_circle:              | Pendente pontuação por roda
 The Cordeiros 92      |:red_circle:              | Pendente pontuação por rodada e historico de transação|R$ 40,00
 Koup AS	              |:white_check_mark:        | Tudo verificado                                       |R$ 30,00
 BondeSemFreio1st      |:red_circle:              | Pendente pontuação por rodada e historico de transação|R$ 45,00
-TEAM São Brás	        |:large_orange_diamond:    | Pendente historico de transação                       |R$ 50,00
+TEAM São Brás	        |:white_check_mark:        | Tudo verificado                                       |R$ 105,00
 Ladeirahouse	        |:red_circle:              | Pendente pontuação por rodada e historico de transação|R$ 30,00
 CS Zenite	            |:red_circle:              | Pendente pontuação por rodada e historico de transação|R$ 30,00
 AJNAG FC	            |:red_circle:              | Pendente pontuação por rodada e historico de transação|R$ 35,00
