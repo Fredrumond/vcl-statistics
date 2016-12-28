@@ -99,7 +99,7 @@ Rodada| Tipo de multa  | Verificada em            | Valor
 ------|----------------| -------------------------|-------
 --    | TAXA DE INSCRIÇÃO | - - - - | R$ 30,00
    z4   |Agosto         | 28/12/2016               | R$ 5,00
-   |||Total| R$ 35,00 
+   ||Total| R$ 35,00 
 
 ##Eterno6a1	
 
@@ -173,10 +173,9 @@ Rodada| Tipo de multa  | Verificada em            | Valor
 31    |Descaso         | 13/12/2016               | R$ 5,00
 33    |Descaso         | 13/12/2016               | R$ 5,00
 35    |Descaso         | 13/12/2016               | R$ 5,00
-z4   |Maio         | 28/12/2016               | R$ 5,00
-1°T  | 7 ultimos | 28/12/2016 | R$ 10,00    
-
-|||Total| R$ 85,00
+z4    |Maio             | 28/12/2016               | R$ 5,00
+1°T   | 7 ultimos       | 28/12/2016               | R$ 10,00
+|||Total| R$ 85,00 
 
 ##Ladeirahouse
 
